@@ -21,3 +21,34 @@ criaCartao(
     'Como se diz tchau em ingles?',
     'Tchau em ingles é bye'
 )
+criaCartao(
+    'Programação'
+    'Quem é o rei da horta?',
+    'O rei da horta é o rei-polho',
+)
+criaCartao(
+    'Programação'
+    'Qual a comida que liga e desliga?',
+    ' O Strog-ON-OFF'
+)
+criaCartao(
+    'Programação'
+    'Quem é a vó da farinha?',
+' A veia Quaker'
+)
+criaCartao(
+    'Programação'
+    'Quem é o rei dos queijos?',
+    'O Reiquejão'
+)
+criaCartao(
+    'Programação'
+    'Qual é o fim da picada?',
+    'Quando o mosquito vai embora'
+)
+criaCartao(
+   'Programação'
+    'Porque o elefante usa óculos vermelho?',
+   ' Para ver melhor'
+)
+
